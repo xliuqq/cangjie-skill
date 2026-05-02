@@ -81,6 +81,7 @@ The name RIA-TV++ breaks down as:
 | Huangdi Neijing Suwen (in this project) | Huangdi Neijing: Suwen | 10 |
 | Huangdi Neijing Lingshu (in this project) | Huangdi Neijing: Lingshu | 8 |
 | [first-principles-skill](https://github.com/kangarooking/first-principles-skill) | First Principles | 10 |
+| [mao-selected-works-skill](https://github.com/kangarooking/mao-selected-works-skill) | Selected Works of Mao Zedong, Vol. 1-5 | 25 |
 
 More high-value books are planned for distillation.
 
@@ -123,6 +124,7 @@ They interlock: nuwa distills people, cangjie distills books, darwin keeps them 
 - Huangdi Neijing Suwen Skill (in this project) — 10 traditional Chinese medicine observation and regulation skills from *Huangdi Neijing: Suwen*
 - Huangdi Neijing Lingshu Skill (in this project) — 8 body-mind regulation and syndrome differentiation skills from *Huangdi Neijing: Lingshu*
 - [First Principles Skill](https://github.com/kangarooking/first-principles-skill) — 10 skills on axiomatic reasoning, boundary-breaking innovation, and organizational refresh from *First Principles*
+- [Mao Selected Works Skill](https://github.com/kangarooking/mao-selected-works-skill) — 25 cognition, strategy, organization, and execution skills from *Selected Works of Mao Zedong*
 
 External Source (included with the author's permission):
 
