@@ -176,9 +176,17 @@ WeChat 公式アカウント「袋鼠帝 AI 客栈」QR コード:
 
 ![](https://raw.githubusercontent.com/kangarooking/cangjie-skill/main/assets/kangarooking-gzh.png)
 
-## Star History
+## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kangarooking/cangjie-skill&type=Date)](https://star-history.com/#kangarooking/cangjie-skill&Date)
+このプロジェクトが役に立ったら、スターをお願いします。
+
+<a href="https://www.star-history.com/?repos=kangarooking%2Fcangjie-skill&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## License
 
