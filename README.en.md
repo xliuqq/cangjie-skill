@@ -181,11 +181,7 @@ WeChat Official Account「袋鼠帝 AI 客栈」QR code:
 If this project has helped you, please star it.
 
 <a href="https://www.star-history.com/?repos=kangarooking%2Fcangjie-skill&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
- </picture>
+ <img alt="Star History Chart" src="./assets/star-history.svg" />
 </a>
 
 ## License

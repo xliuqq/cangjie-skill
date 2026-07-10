@@ -211,11 +211,7 @@ cangjie-skill 是一个更大的 skill 生态的一部分：
 如果这个项目帮到了你，点个 Star 支持一下～
 
 <a href="https://www.star-history.com/?repos=kangarooking%2Fcangjie-skill&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kangarooking/cangjie-skill&type=date&legend=top-left" />
- </picture>
+ <img alt="Star History Chart" src="./assets/star-history.svg" />
 </a>
 
 ## License
